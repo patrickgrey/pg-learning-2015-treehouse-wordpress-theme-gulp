@@ -1,0 +1,8 @@
+source/node_modules
+source/dist
+source/.tmp
+source/.sass-cache
+source/bower_components
+source/test/bower_components
+*.sublime-project
+*.sublime-workpsace
